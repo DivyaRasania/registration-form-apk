@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.divya.registrationformfirstchallenge"
+        applicationId 'com.divya.registrationform'
         minSdk 21
         targetSdk 32
         versionCode 1
@@ -25,6 +25,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+    namespace 'com.divya.registrationformfirstchallenge'
 }
 
 dependencies {

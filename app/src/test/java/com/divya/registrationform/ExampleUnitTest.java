@@ -1,4 +1,4 @@
-package com.divya.registrationformfirstchallenge;
+package com.divya.registrationform;
 
 import org.junit.Test;
 
